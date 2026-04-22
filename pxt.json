@@ -2,7 +2,8 @@
     "name": "[Null World]",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "arcade-overworld": "github:riknoll/arcade-overworld#v0.0.5"
     },
     "files": [
         "main.blocks",
