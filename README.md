@@ -3,15 +3,6 @@
 
 > Open this page at [https://jpolecas000.github.io/null-world/](https://jpolecas000.github.io/null-world/)
 
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/jpolecas000/null-world** and import
-
 ## Edit this project
 
 To edit this repository in MakeCode.
